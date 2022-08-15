@@ -2,9 +2,9 @@
 
 Possess 4-year R&D experience including 1-year front-end development along with 3-year product management.
 
-Switching careers from a product manager to a front-end developer, and with a combination of software engineering, project management and cross-functional communication skills, be capable of working well with a team and implementing product requirements precisely to user experience.
+Switching careers from a product manager to a front-end engineer, and with a combination of software engineering, project management and cross-functional communication skills, be capable of working well with a team and implementing product requirements precisely to user experience.
 
-Looking for an opening for a front-end developer.
+Looking for an opening for a front-end engineer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravenera0317&label=Profile%20views&color=0e75b6&style=flat" alt="ravenera0317" /> </p>
 
