@@ -11,7 +11,6 @@ Looking for an opening for a front-end developer.
 <p align="left">
 <a href="https://twitter.com/ravenera0317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravenera0317" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/r6090408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r6090408" height="30" width="40" /></a>
-<a href="https://fb.com/r6090408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r6090408" height="30" width="40" /></a>
 <a href="https://medium.com/@ravenera0317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ravenera0317" height="30" width="40" /></a>
 </p>
 
