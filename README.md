@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-Possess 4-year R&D experience including 1-year front-end development along with 3-year product management.
-
-Switching careers from a product manager to a front-end engineer, and with a combination of software engineering, project management and cross-functional communication skills, be capable of working well with a team and implementing product requirements precisely to user experience.
-
-Looking for an opening for a front-end engineer.
+An extroverted, motivated developer with 1-year experience in front-end programming, specializing in Vue.js, React.js and TypeScript, who enjoys a great sense of accomplishment that comes from logical thinking behind programming and implementation of user interface. Combined with the past 3-year team management experience in a multilingual environment as a product manager, and with excellent interpersonal skills, being able to work with cross-functional teams from various backgrounds and keen to implement software product requirements precisely for better user experience.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravenera0317&label=Profile%20views&color=0e75b6&style=flat" alt="ravenera0317" /> </p>
 
